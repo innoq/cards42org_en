@@ -1,0 +1,5 @@
+collections:
+  descriptions:
+    directory: descriptions
+  info:
+    directory: info
