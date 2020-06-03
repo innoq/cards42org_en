@@ -1,11 +1,12 @@
 ---
 name: Architecture Decision Record
 ---
-In länger entwickelten Softwaresystemen ist es mit der Zeit sehr schwierig, getroffene Entscheidungen aus der Vergangenheit nachzuvollziehen. Daher ist es wichtig, Entscheidungen und deren Beweggründe verständlich zu dokumentieren.
+In software systems which has been under development for a long time, it becomes very difficult over time to understand decisions made in the past. Therefore it is important to document decisions and their motives in an understandable way.
 
-Mittels Architecture Decisions Records (ADRs) gibt es die Möglichkeit, Entscheidungen möglichst leichtgewichtig und einheitlich zu dokumentieren. Zudem werden hier die Gründe für eine Entscheidung und die dabei durchlaufenen Gedankengänge sowie der Kontext (Zeit, Wissen, Beteiligte, etc.) festgehalten.
+With the help of Architecture Decisions Records (ADRs), it is possible to document decisions in the lightest and most consistent way possible. In addition, the motivation for a decision and the thought processes that have been followed as well as the context (time, knowledge, participants, etc.) are recorded here.
 
-Mit diesem Template könnte ihr üben, eure Entscheidungen nach den Ideen der ADRs zu strukturieren.
+
+With this template you could practice structuring your decisions according to the ideas of the ADRs.
 
 **Mehr Informationen**
 
