@@ -1,10 +1,11 @@
 ---
 name: Architektur-Quick-Check
 ---
-Wichtige Qualitätsziele bestimmen Entscheidungen bei der Umsetzung von Softwaresystemen maßgeblich. In diesem Quick-Check kannst Du Deine TOP 3 Qualitätsziele mit der umgesetzten Lösung vergleichen, um zu sehen, ob diese zusammenpassen.
+Important quality attribute goals significantly determine decision-making in the implementation of software systems. In this quick check you can compare your TOP 3 quality attribute  goals with the implemented solution to check if they fit together.
 
-Finde als erstes heraus, was die TOP Qualitätsziele sind. Dann identifiziere die wesentlichen Architekturansätze Deines Softwaresystems. Das sind die Dinge, die Du einer technikaffinen Person erzählst, die wissen will, wie ihr die Software aufgebaut habt. Schätze dann ab, wie gut der jeweilige Architekturansatz die Erreichung eines Qualitätsziels unterstützt (oder auch entgegenwirkt).
+Find out first what the TOP quality attribute goals are. Then identify the essential architectural principles of your software system. These are the things you would tell a tech-savvy person who wants to know how you have designed the software. Then estimate how well the respective architecture principle supports (or contradicts) the achievement of a quality attribute goal.
 
-**Mehr Informationen**
+**More Information**
+
 * Artikel [Quality-Driven Software Architecture](https://www.innoq.com/en/articles/2012/04/quality-driven-software-architecture/) von Gernot Starke
-* Bewertungsmethode [Architecture Tradeoff Analysis Method](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=513908)
+* Evaluation method [Architecture Tradeoff Analysis Method](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=513908)
