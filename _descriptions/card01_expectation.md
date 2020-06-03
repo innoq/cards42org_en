@@ -1,8 +1,9 @@
 ---
 name: ResourceAllocationExpectation
 ---
-Oft sind wir in unserer eigenen Welt mit all ihren Beschränkungen gefangen. Wir sind darauf konditioniert, uns bescheiden zu geben &ndash; bescheiden sind damit dann auch unsere Lösungen.
+We are often trapped in our own world with all its restrictions. We are conditioned to be modest &ndash; our solutions are modest as well.
 
-Aber was wäre, wenn ihr unerschöpfliche Ressourcen nutzen könntet? Was würde es im Softwaresystem bewirken? Was sind die maximal sinnvollen Ressourcen? Wie weit seid ihr hiervon weg? Wie bekommt ihr die wirklich wichtigen Ressourcen, um euer Softwaresystem noch besser zu machen?
+But what if you could use infinite resources? What would it do to the software system? What are the maximum meaningful resources? How far away are you from there? How do you get the really valuable resources to make your software system even better?
 
-Sammelt die Möglichkeiten auf dieser Karte und diskutiert sie mit eurem Team!
+Collect the opportunities on this map and discuss them with your team!
+
