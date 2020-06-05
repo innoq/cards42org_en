@@ -1,17 +1,19 @@
 ---
 name: Deine Produktbox
 ---
-Oft fehlt bei in die Jahre gekommenen Softwaresystemen die Vision oder das Zielbild. Was ist der richtige Weg? Für wen machen wir all das? Ergibt das überhaupt alles noch einen Sinn?
+Often the vision or the goal is missing in aging software systems. What is the right path? For whom are we doing all this? Does it even make sense anymore?
 
-Die Produktbox hilft euch, wichtige Antworten für eure Software aus der Sicht der Kunden zu finden:
-* Was wird eigentlich entwickelt?
-* Wer hat den Nutzen?
-* Was sind die zentralen Verkaufs- und Nutzungsargumente?
-* Was sind die Kernfunktionen?
-* Wie hebt sich das Produkt von anderen Produkten oder der Vorgängerversion ab?
+The product box helps you to find important answers for your software from the customers' point of view:
 
-Durch die Beantwortung solcher Fragen bekommt ihr ein besseres Gefühl dafür, wofür ihr die Software wirklich entwickelt.
+* What is actually being developed?
+* Who has the benefit?
+* What are the central selling points and reasons for use?
+* What are the core functions?
+*What is the unique selling proposition of the product compared to other products or the previous version?
 
-**Mehr Informationen**
-* Methode [Design the Box](https://gamestorming.com/design-the-box/) von gamestorming.com
+By answering such questions you will get a better understanding of what you are really developing the software for.
+
+**More information**
+
+* [Design the Box](https://gamestorming.com/design-the-box/) method from gamestorming.com
 

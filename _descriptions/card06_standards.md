@@ -1,10 +1,10 @@
 ---
 name: Arbeite ich nach gängigen Entwicklungsstandards?
 ---
-Mit der immer komplexer werdenden Software haben sich im Laufe
-der Jahre kontinuierlich mehr Standards etabliert, welche die Entwicklung und Evolution eines Softwaresystems nachweislich positiv unterstützen. 
+With software becoming more and more complex, more and more standards have years, which have been proven to positively influence the development and evolution of a software system. 
 
-Prüft in eurem Team, welche dieser Standards ihr umsetzt und wo es möglicherweise Nachholbedarf gibt. Überlegt euch auch, warum ihr fehlende oder unzureichende Maßnahmen bisher nicht angegangen seid.
+Check within your team, which of these standards you are implementing and where there is a potential need to improve. In addition, think about why you have not yet addressed missing or insufficient measures.
 
-**Mehr Informationen**
-* Das Buch [Accelerate](https://itrevolution.com/book/accelerate/) liefert wissenschaftliche Belege zu der ein oder anderen Good Practice
+**More information**
+
+* The book [Accelerate](https://itrevolution.com/book/accelerate/) provides scientific evidence on one or the other good practice

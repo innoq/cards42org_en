@@ -1,17 +1,19 @@
 ---
 name: Meine Architektur
 ---
-<q>Das System ist zu komplex, um es kurz mal eben aufzumalen!</q> &ndash; diesen oder ähnliche Sätze hat mit Sicherheit jede\*r Entwickler\*in schon einmal gehört.
+<q>The system is too complex to sketch it out in a brief! </q> &ndash; this or something along those lines has certainly been a phrase every developer has heard before.
 
-Eine gut strukturierte und klare Softwarearchitektur muss jedoch auf einen Bierdeckel passen.
+However, a well-structured and clear software architecture must fit on a beer coaster.
 
-Versucht, die wichtigsten Strukturen eurer Architektur kompakt auf der Karte zu skizzieren.
-* Wann trefft ihr auf Platzprobleme? Besitzt ihr zu viel unnötigen Balast?
-* Wird es an manchen Stellen zu detailliert? Ist das System vielleicht zu unterschiedlich abstrahiert?
-* Wisst ihr nicht, was ihr malen sollt? Sind wesentliche Konzepte der Architektur nicht bekannt?
+Try to sketch the most important aspects of your architecture on this card.
 
-Diskutiert euere Vorgehen beim Zeichnen und die Ergebnisse. Überlegt euch, welche Maßnahmen ihr für eine noch klarere Strukturierung eures Softwaresystems vornehmen könnt.
+* When do you encounter space limitations? Do you have too much unnecessary burden?
+* Does it get too detailed in some places? Could the system be abstracted in different ways?
+* Don't you even know what you are supposed to draw? Are essential architectural elements not known?
 
-**Mehr Informationen**
-* Das [Dokumentationsschubladensystem arc42](https://arc42.org/) bietet eine bewährte Struktur, wenn ihr mehr dokumentieren wollt
-* Das Buch [Softwarearchitekturen dokumentieren und kommunizieren](http://www.swadok.de/) hilft beim Einstieg in eine leichtgewichtige Softwarearchitekturdokumentation
+Discuss your drawing approach as well as the outcome. Think about what measures you can take to structure your software system even more clearly.
+
+**More Information**
+
+* The [documentation drawer system arc42](https://arc42.org/) offers a proven structure if you want to document further.
+* The book [Softwarearchitekturen dokumentieren und kommunizieren](http://www.swadok.de/) helps with the introduction to a lightweight software architecture documentation
