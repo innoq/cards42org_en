@@ -3,19 +3,22 @@ name: Die 8-Stunden-Torte
 ---
 <q>Der Tag hat 24h und die Nacht ist auch noch da.</q> &mdash; Unbekannt.
 
-...und plötzlich war der Tag schon wieder vorbei. Aber was habt ihr bewegt? Diese Zeittorte hilft euch zu sehen, worin ihr eure wertvolle Zeit investierst:
+...and suddenly the day was gone. But what did you get done? This time pie chart can help you see what you've been spending your precious time on:
 
-* Nutzt ihr eure Zeit auch wirklich effektiv?
-* Welche der Zeitslots könnt ihr einfach loswerden?
-* Wie hart am Anschlag seid ihr ausgelastet?
 
-Beurteilt eure genutzte Zeit auch danach, ob ihr von der Arbeit getrieben seid oder ob ihr über die Zeit selbst bestimmen könnt:
+* Are you using your time effectively?
+* Which of the time slots can you simply get rid of?
+* Are you achieving maximum utilization of your time?
 
-* Welche Zeit investiert ihr für zukunftsgerichtete Arbeit?
-* Wie viel Zeit verschwendet ihr mit ungeplanten Arbeiten?
-* Welche Zeit geht für Routinearbeiten drauf?
+Assess the time you spend according to whether you are driven by a workload or whether you have control over your own time:
 
-**Mehr Informationen**
-* [Pomodoro-Technik für besseres Zeitmanagement](https://francescocirillo.com/pages/pomodoro-technique)
-* Das Buch [Projekt Phoenix](https://www.oreilly.de/buecher/12508/9783958751750-projekt-phoenix.html) gibt zahlreiche Hinweise für eine effektivere Gestaltung der eigenen Arbeit
+
+* How much time do you invest in future-oriented work?
+* How much time do you expend on unplanned work?
+* How much time is spent on routine tasks?
+
+**More information**
+
+* [Pomodoro technique for better time management](https://francescocirillo.com/pages/pomodoro-technique)
+* The book [Project Phoenix](https://www.oreilly.de/buecher/12508/9783958751750-projekt-phoenix.html) gives plenty tips for designing of your own work more effectively
 
