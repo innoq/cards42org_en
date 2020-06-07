@@ -1,12 +1,12 @@
 ---
 name: Wie schlimm redest Du Dir das Dokumentieren?
 ---
-Das Schreiben einer Dokumentation gilt als eine der unbeliebtesten Aufgaben in der Softwareentwicklung. Sehr häufig wird die Wichtigkeit der Dokumentation nicht gewürdigt oder als umständlich abgetan.
+Writing documentation is one of the most unpopular tasks in software development. Very frequently the importance of documentation is not appreciated or dismissed as cumbersome.
 
-Eine gute Dokumentation hilft nicht nur anderen, sondern auch der schreibenden Person selbst. Das Schreiben und Aktualisieren der Dokumentation muss kein Hexenwerk sein, es kann parallel zur Entwicklung geschehen &ndash; sogar innerhalb der bereits geöffneten Entwicklungsumgebung. Die Verwendung von arc42 bildet eine gute Grundlage für eine gute und einfache Dokumentation von Softwarearchitekturen.
+A good documentation not only helps others, but also benefits the person writing it. Writing and updating the documentation does not have to be witchcraft, it can be done parallel to the development &ndash; even within the already running development environment. Using arc42 provides a solid foundation for good and easy documentation of software architectures.
 
-**Mehr Informationen**
+**More Information**
 
-* [Offizielle Seite von arc42](https://arc42.org/)
-* Buch [Primer - Softwarearchitekturen pragmatisch dokumentieren](https://leanpub.com/arc42-primer)
-* Leichtgewichtiges, entwicklerfreundliches Dokumentieren mit dem [Docs-As-Code-Ansatz](https://docs-as-co.de/)
+* [Official Site of arc42](https://arc42.org/)
+* Book [Primer - pragmatic documentation of software architectures](https://leanpub.com/arc42-primer)
+* Lightweight, developer-friendly documentation with the [Docs-As Code Approach](https://docs-as-co.de/)
