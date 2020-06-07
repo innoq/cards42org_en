@@ -1,18 +1,18 @@
 ---
 name: Erfolg in der Zukunft
 ---
-Oft liegen sehr naheliegende Lösungen vor uns, welche maßgeblich zum Erfolg eines Softwaresystems beitragen, aber wir sehen sie gerade nicht. Zu sehr sind wir mit unserer Engstirnigkeit im Tagesgeschäft gefangen.
+Often there are very obvious solutions in front of us, which contribute significantly to the success of a software system, but we do not see them yet. We are too much caught with our narrow-mindedness in our daily business.
 
-Diese Karte löst dieses Dilemma dadurch, dass sie euch gedanklich ganz bewusst in die ferne Zukunft versetzt. Damit eröffnet sich eine völlig andere Perspektive auf das "heutige damals", da ihr nun auf die Gegenwart zurückblickt.
+This card solves this dilemma by deliberately taking you into the distant future. This opens up a completely different perspective on "today then", as you now look back on the present.
 
-Gedanklich in der Zukunft angekommen, sammelt die TOP 3 Aktionen, die passiert sind, um euer Softwaresystem so richtig erfolgreich werden zu lassen. Diskutiert anschließend wieder im Hier und Jetzt, warum ihr die Maßnahmen noch nicht getroffen habt:
+Once you have arrived in the future, collect the TOP 3 actions that have happened to make your software system really successful. Discuss afterwards, again in the here and now, why you haven't taken the actions yet:
 
-* Was muss passieren, damit ihr es besser habt?
-* Was passiert kurz davor?
-* Was passiert dann als nächstes?
-* Wie könnt ihr jetzt loslegen?
+* What needs to happen to make you better off?
+* What happens just before?
+* What happens up next?
+* How can you start now?
 
-**Mehr Informationen**
+**More information**
 
-* Artikel über die Verwendung der [artverwandten Pressemitteilung](https://www.businessinsider.com/heres-the-surprising-way-amazon-decides-what-new-enterprise-products-to-work-on-next-2015-3?IR=T) bei Amazon
-* Sammlung von [ähnlichen Formaten](http://www.funretrospectives.com/category/futurespective/), welche mit Zukunftsszenarien arbeiten
+* Article about the use of the [hypothetical press release](https://www.businessinsider.com/heres-the-surprising-way-amazon-decides-what-new-enterprise-products-to-work-on-next-2015-3?IR=T) at Amazon
+* Collection of [similar formats](http://www.funretrospectives.com/category/futurespective/), which work with future scenarios
