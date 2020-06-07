@@ -1,23 +1,30 @@
 ---
 name: Standortbestimmung
 ---
-Vielen Teams ist nicht bewusst, wie gut ihre Software eigentlich ist und wo für ihren Erfolg Gefahren lauern. Die Standortbestimmung hilft euch dabei, ungenutzte Chancen zu finden und blinde Flecken zu identifizieren.
+Many teams are not aware how great their software actually is and where dangers lurk for their success. The analysis of the current situation helps you to find unused opportunities and identify blind spots.
 
-Diskutiert hierfür untereinander, mit welchen Stärken eure Software punkten kann:
-* Was lief bisher richtig gut?
-* Worauf seid ihr so richtig stolz?
+Discuss among yourselves with which strengths your software can score points:
 
-Fragt euch auch, welche Schwächen derzeit vorhanden sind:
-* Wo tut ihr euch schwer?
-* Was fehlt euch?
+* What has been going really well so far?
+* What are you really proud of?
 
-Sucht auf dieser Basis Gelegenheiten, um die identifizierten Schwächen zu kompensieren:
-* Welche Chancen könnt ihr in naher Zukunft nutzen?
-* Was könnt ihr gleich selbst ändern?
+Also ask yourself what weaknesses are currently present:
 
-Identifiziert ebenfalls Risiken, die sich in eurer Software  verbergen:
-* Welche ungünstigen Entwicklungen in eurem Umfeld gibt es?
-* Wo lauern mögliche Gefahren?
+* Where are you struggling?
+* What are you missing?
 
-**Mehr Informationen**
-* [SWOT Analysis auf gamestorming.com](https://gamestorming.com/swot-analysis/)
+On this basis, look for opportunities to compensate for the weaknesses identified:
+
+* What opportunities can you take in the near future?
+* What can you change yourself right away?
+
+Also identify threats that are hidden in your software:
+
+* What are the unfavorable developments in your environment?
+* Where are the possible threats?
+
+**More information**
+
+* [SWOT analysis on gamestorming.com](https://gamestorming.com/swot-analysis/)
+
+* https://gamestorming.com/swot-analysis/)

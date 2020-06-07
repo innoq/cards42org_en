@@ -1,10 +1,11 @@
 ---
 name: Der unbekannte Bekannte
 ---
-Vermutlich hat jede an einem Softwareprojekt beteiligte Person in einer technischen Rolle dieses Problem schon einmal erlebt: Man glaubt, alles richtig zu machen, und auf einmal möchte ein Stakeholder aber etwas ganz anderes. Das Unverständnis ist groß, die Frustration steigt. 
+Probably every person involved in a software project in a technical role has already encountered this problem: You think you're doing everything right, but suddenly a stakeholder wants something completely different. The lack of understanding is a huge, frustration increases.
 
-Was denkt ihr, bewegt diese Person? Versucht euch, in ihre Lage zu versetzen und überlegt, was die Motivation hinter dem Verhalten des Stakeholders ist. Wie könnt ihr auf seine Bedürfnisse eingehen, um die Situation produktiver und für alle angenehmer zu gestalten?
+What do you think drives this person? Try to put yourself in their shoes and think about the underlying motivation behind the stakeholder's behaviour. How can you respond to his or her needs to make the situation more productive and more agreeable for everyone?
 
-**Mehr Informationen**
-* Der [Mini Quality Attribute Workshop](https://re-magazine.ireb.org/articles/discover-quality-requirements-with-the-mini-qaw) besteht im Kern darin, andere Stakeholder und ihre Bedürfnisse besser zu verstehen
-* Artikel über [Empathy Driven Development](https://www.empathy-driven-development.com/why-empathy-will-transform-tech/) von Andrea Goulet
+**More information**
+
+* The [Mini Quality Attributes Workshop](https://re-magazine.ireb.org/articles/discover-quality-requirements-with-the-mini-qaw) is essentially about better understanding other stakeholders and their needs
+* Article about [Empathy Driven Development](https://www.empathy-driven-development.com/why-empathy-will-transform-tech/) by Andrea Goulet
