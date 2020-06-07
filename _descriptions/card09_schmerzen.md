@@ -1,9 +1,11 @@
 ---
 name: Mein schmerzhaftestes Problem
 ---
-Probleme verursachen Kosten. Wenn diese Problemkosten die Kosten für die Lösung überproportional überschreiten, ist es durchaus rentabel, Probleme aus wirtschaftlichen Gründen anzugehen.
+Issues cause costs. If those costs of the issue are disproportionately higher than the costs of the solution, it is profitable to address the issues for economic reasons.
 
-Diese Karte hilft Dir, ein für Dich sehr wichtiges Problem strukturiert zu erfassen und die damit verbundenen Kosten abzuschätzen. Die Intervallschätzung drückt dabei aus, wie sicher oder unsicher Du in Deiner Schätzung bist.
+This map helps you to record a very important issue in a structured way and to estimate the associated costs. The interval estimate indicates how certain or uncertain you are in your estimation.
 
-**Mehr Informationen**
-* Die [Architecture Improvement Method aim42](https://aim42.github.io/#Estimate-Issue-Cost) zeigt weitere Beispiele für die Problemkostenschätzung
+**More information**
+
+* The [Architecture Improvement Method aim42](https://aim42.github.io/#Estimate-Issue-Cost) shows further examples of issue cost estimation
+
