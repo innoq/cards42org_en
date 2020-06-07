@@ -1,8 +1,8 @@
 ---
 name: Das Worst-Case-Szenario
 ---
-Häufig überlegt man erst nach dem Ende eines Projekts was zu dem oft fatalen Ausgang geführt hat. In agilen Projekten werden zudem Retrospektiven veranstaltet, um frühzeitig Risiken für ein Projekt zu finden, aber beschränken sich diese oft nur auf die Ereignisse der vergangenen Wochen.
+In many cases, one does not think about what led to the often fatal outcome until after the end of a project. In agile projects, retrospectives are also held to identify risks for a project at an early stage, but these are often limited to the events of the past few weeks.
 
-In beiden Fällen könnten wir fröhlich vor uns hin arbeiten bis es einen harten Cut in Form eines Projektabbruchs kommt &ndash; den wir uns dann so gar nicht erklären können.
+In both cases, we could happily work our way through until we get a hard cut in the form of a project termination &ndash; which we can't even explain to ourselves at that point.
 
-Aber warum muss es erst so weit kommen? Macht euch Gedanken, was dazu führen könnte, dass euer Produkt in der nahen Zukunft gegen die Wand gefahren wird. Nimmt dies für unterschiedliche Zeiträume vor, damit ihr nicht im Hier und Jetzt gefangen seid. Nutzt dann diese Erkenntnisse, um geeignete Gegenmaßnahmen zu definieren und umzusetzen.
+But why does it have to come to this point? Think about what could cause your product to hit the wall in the near future. Do this for different periods of time so that you are not trapped in the here and now. Then use this knowledge to define and implement suitable countermeasures.
