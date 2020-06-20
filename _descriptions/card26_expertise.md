@@ -2,17 +2,14 @@
 name: How to learn X
 ---
 
-Niemand von uns kann alles, aber sicher kann jede/r etwas besonders gut.
-Dieses besondere Wissen zu teilen hilft euch, euer Team noch besser zu machen
-und Inselwissen zu verringern.
+None of us can do everything, but surely each of us can do something especially well.
+Sharing this special knowledge helps you to make your team even better
+and reduce knowledge islands.
 
-Was ist also euer absolutes Expertenthema? Schreibt dieses Thema &ndash; jede und jeder für sich &ndash; auf eine Karte und überlegt
-euch, welche fünf Anleitungen, Bücher, Blogs oder sonstige Ressourcen euch dabei geholfen haben, 
-in das Thema einzusteigen. Sortiert diese, beginnend bei der leichtesten Einstiegsressource, und 
-schreibt sie ebenfalls auf die Karte.
+So, what is your ultimate subject of expertise? Write down this topic on a card &ndash; each and every one for themselves &ndash; and think about which five guides, books, blogs, or other resources have helped you to get into the subject. Sorts them, starting with the most basic entry resource, and  write them on the card as well.
 
-Tauscht euch im Anschluss über eure Ergebnisse aus. Hat vielleicht
-noch jemand dieses Thema gewählt und es war niemandem bewusst? Perfekt! 
-Denn dadurch ergibt sich eine größere Ansammlung an Wissen und vielleicht auch unterschiedlichen Lernressourcen.
-Sammelt die ausgefüllten Karten idealerweise an einem Ort, der jeder und jedem im Team zugänglich ist.
-So könnt ihr jederzeit auf die Lernressourcen zurückgreifen und euer Wissen erweitern.
+Afterwards you can discuss your results. Maybe someone else chose this topic as well and nobody was aware of it?  Awesome! 
+
+After all, this results in a greater accumulation of knowledge and perhaps also varying learning resources.
+Ideally, collect the filled out cards in a location that is accessible to everyone in the team.
+This allows everyone to access the learning resources and expand their knowledge at any time.
