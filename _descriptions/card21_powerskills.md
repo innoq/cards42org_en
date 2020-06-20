@@ -1,12 +1,12 @@
 ---
 name: Powerskills
 ---
-Verschiedene Softwaresysteme mit ihren verschiedenen Softwarearchitekturen brauchen auch verschiedene Fähigkeiten der Beteiligten, um erfolgreich zu sein.
+Different software systems with their varying software architectures also require different skills of the parties involved in order to be successful.
 
-- Welche Fähigkeiten wären in eurem Team von großem Nutzen?
-- Habt ihr im Team die notwendigen Skills?
-- Welche Skills nehmt ihr implizit an, habt es aber nicht kommuniziert?
+- Which skills would be of particular value in your team?
+- Do you have the required skills within your team?
+- Which skills do you implicitly assume but have not yet communicated?
 
-Findet es mit dieser Karte heraus, in dem ihr die vier wichtigsten Skills in die vier Felder schreibt! Ihr wollt es noch genauer machen? Dann vergebt zusätzlich noch Punkte zwischen 0-100, um die Ausprägung der jeweiligen Fähigkeit festzulegen.
+Find out with this map by writing the four most important skills into the four fields! You want to be more precise? Then assign additional points from 0-100 to determine the level of the particular skill.
 
-Stellt ihr fest, dass euch notwendige Skills fehlen, sucht nach Möglichkeiten, euch diese gezielt anzueignen oder holt euch Leute in euer Team, die diese Skills besitzen.
+If you detect that you lack the necessary skills, look for opportunities to acquire them or bring people into your team who possess these skills.
