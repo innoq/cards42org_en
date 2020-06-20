@@ -1,7 +1,8 @@
 ---
 name: Code-Smell-Monster
 ---
-Ähnlich wie in Horrorfilmen, gibt es auch in der Softwareentwicklung Monster. Diese kosten euch zwar nicht das Leben, dafür aber sehr viel Zeit, Nerven und im schlimmsten Fall Geld. Gottklassen, von denen eine riesige Anwendung abhängt, switch-Anweisungen mit unzähligen Einträgen oder eine Parameterliste, welche den halben Bildschirm einnimmt: all das sind die Monster, die uns jeden Tag begegnen können. Wie sieht dein persönliches Code-Smell-Monster aus? Male es auf die Karte und überlege dir, wie du es besiegen kannst.
+Similar to horror movies, there are also monsters in software development. They don't cost you your life, but they do cost you a lot of time, nerves and in the worst case even money. God objects upon which a huge application depends, switch statements with countless entries or a parameter list which takes up half the screen: all these are monsters we may encounter every day. What does your personal code-smell monster look like? Draw it on the card and think about how you can defeat it.
 
-**Weitere Informationen**
-- Das Buch [Working Effectively with Legcay Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/) von Michael Feathers behandelt einige dieser Themen und zeigt passende Refactorings.
+**More Information**
+
+- The book [Working Effectively with Legcay Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/) by Michael Feathers covers some of these topics and shows appropriate refactorings.
