@@ -1,15 +1,12 @@
 ---
 name: Risikominimierung
 ---
-Auch wenn wir es ungerne hören: Risiken begleiten unsere Projekte
-vom ersten Moment an. Häufig wird jedoch vergessen, sowohl diese Risiken, als auch deren Gegenmaßnahmen, 
-entsprechend zu dokumentieren. Dies kann später fatale Folgen
-haben, wenn beispielsweise auf zu fragile Nachbarsysteme gesetzt, oder vielleicht
-auch relevante Regulatorik übersehen wird.
+Although we hate to hear it: risks are part of our projects
+from the very first moment. Often, however, both these risks and their countermeasures are forgotten to be documented accordingly. This can later have fatal consequences if, for example, you have relied on too fragile adjacent systems, or perhaps also ignored relevant regulatory issues.
 
-Überlegt euch, welche Risiken es in eurem Projekt gibt und dokumentiert je ein Risiko pro Karte. 
-Im Anschluss daran notiert ihr die Maßnahme zur Minimierung des Risikos und die davon erwarteten Auswirkungen.
+Think about the risks in your project and document one risk per card. 
+Afterwards, write down the measures you have taken to minimize the risk and the expected impact.
 
-Diskutiert die Ergebnisse miteinander. Habt ihr möglicherweise ein bisher unbekanntes Risiko entdeckt?
-Sehr gut! Damit könnt ihr euer Projekt gleich etwas sicherer machen und die Architekturdokumentation erweitern.
-Zusätzlich könnt ihr sowohl euch als auch betroffene Stakeholder dafür sensibilisieren.
+Discuss the results with each other. Perhaps you have discovered a previously unknown risk?
+Very good! Now you can make your project a bit safer and extend the architecture documentation.
+In addition, you can raise the awareness of both yourself and affected stakeholders.
