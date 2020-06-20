@@ -1,21 +1,17 @@
 ---
 name: Minidoku
 ---
-Viele Personen verbinden mit Architekturdokumentation lange und komplexe Dokumente,
-deren Aussagekraft meist fragwürdig ist. Dementsprechend hoch sind die Hürden, selbst
-mit einer Dokumentation anzufangen. Dass dies aber auch ganz einfach sein kann, demonstriert unsere
-Minidoku.
+Many people associate architecture documentation with long and complex documents, mostly of questionable validity. The barriers are correspondingly high, even to start with a documentation. But this can be quite simple, as demonstrated by our Minidocu.
 
-Beginne damit, den geschäftlichen Grund der Software zu nennen oder kurz zu beschreiben. Damit
-ist klar gestellt, warum man diese Software überhaupt braucht. Anschließend notiere die drei wichtigsten
-Qualitätsmerkmale, geordnet nach ihrer Priorität. Zum Schluss werden noch die wichtigsten Design-Entscheidungen
-skizziert, damit diese nachhaltig dokumentiert und nachvollziehbar sind.
+Start by stating the business reason for the software or briefly describe it. So
+it is clarified why you need this software at the first place. Then note the three most important quality attributes, sorted according to their priority. Finally, list the most important design decisions so that they are sustainably documented and verifiable.
 
-Mit dieser Minidoku ist dann auch erfolgreich der Grundstein zu einer umfangreicheren Architekturdokumentation gelegt.
-Um diese ohne unnötigen Overhead zu erstellen, kann z. B. ein Template wie arc42 verwendet werden.
+With this minidocumentation, the foundation for a more comprehensive architectural documentation has been successfully laid.
+To create this without unnecessary overhead, a template such as arc42 can be used.
 
-**Mehr Informationen**
+**More Information**
 
-* [Offizielle Seite von arc42](https://arc42.org/)
-* Buch [Primer - Softwarearchitekturen pragmatisch dokumentieren](https://leanpub.com/arc42-primer)
-* Leichtgewichtiges, entwicklerfreundliches Dokumentieren mit dem [Docs-As-Code-Ansatz](https://docs-as-co.de/)
+* [Official Site of arc42](https://arc42.org/)
+* Book [Primer - pragmatic documentation of software architectures](https://leanpub.com/arc42-primer)
+* Lightweight, developer-friendly documentation with the [Docs-As Code Approach](https://docs-as-co.de/)
+
