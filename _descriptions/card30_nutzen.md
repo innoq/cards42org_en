@@ -1,27 +1,31 @@
 ---
 name: Kundennutzen
 ---
-_"Lasst uns doch dieses neue Framework einbauen, das letzte Woche erschienen ist!"_
+*"Let's add this new framework that was launched last week!"*
 
-Bestimmt habt ihr in einem eurer Projekte diese Aussage in ähnlicher Form
-schon einmal gehört oder gar selbst getroffen.
-In erster Linie schreibt ihr eure Software für eure Anwender\*innen oder euren Kund\*innen.
-Und dennoch wird bei Entscheidungen viel zu selten darauf geachtet,
-welchen Nutzen eure Zielgruppe von der bevorstehenden Änderung hat. 
+I'm sure in one of your projects you have heard this statement in a similar form before or even made it yourself.
+First and foremost, you develop your software for your users or customers.
+And yet, far too little attention is paid to this when making decisions,
+what benefits your target group has from the upcoming change. 
 
-Ihr wollt ein eigenes komplexes Logging-Framework für eure Software schreiben und
-rechnet mit ca. sechs Wochen Entwicklungszeit? Dies wird für die Stakeholder sehr wahrscheinlich
-&ndash; hoffentlich! &ndash; keine spürbaren Auswirkungen haben,
-hindert euch aber gleichzeitig daran, in dieser Zeit neue Features zu entwickeln.
+You want to write your own complex logging framework for your software and
+estimates a development time of about six weeks?This will most likely have no noticeable impact on stakeholders,  but simultaneously prevents you from developing new features during this time.
 
-Ihr habt vor, eine weitere, neue Bezahlmethode in euer System zu integrieren,
-seid aber nicht sicher, ob dafür neun Wochen Entwicklung verwendet werden können?
-Viele eurer Anwender\*innen könnten dankbar sein, dass sie eine neue Möglichkeit bekommen,
-Produkte bei euch zu bezahlen. Dieses Feature hat also einen sehr großen Nutzen.
+You plan to integrate another new payment method into your system,
+but aren't you sure if nine weeks of development time can be spent on this?
+Many of your users might be grateful to have a new opportunity,
+This will most likely have no noticeable impact on stakeholders,  but simultaneously prevents you from developing new features during this time.
 
-Mit dieser Karte könnt ihr bei euren nächsten Entscheidungen überprüfen,
-wie viel Nutzen die Anwender\*innen daraus ziehen und ob die Änderungen tatsächlich
-sinnvoll oder notwendig sind.
+You plan to integrate another new payment method into your system,
+but aren't you sure if nine weeks of development time can be spent on this?
+Many of your users might be grateful to have a new option to pay for products. So this feature has a very big benefit.
 
-**Mehr Informationen**
-- [Value Chains und Wardley Maps](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/)
+With this card you can check with your next decisions,
+how much benefit users derive from the changes and whether the changes actually
+are useful or necessary.
+
+**More information**
+
+- [Value Chains and Wardley Maps] [https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/]
+
+- https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/)
