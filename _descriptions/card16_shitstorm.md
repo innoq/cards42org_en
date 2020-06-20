@@ -1,13 +1,15 @@
 ---
 name: Vermeide den &#35;Shitstorm!
 ---
-Es gibt Personen in und um eure Software, welche einen großen Einfluss haben, ohne dass ihr es wisst. Findet heraus, welche Personen wie wichtig für den Erfolg eures Softwareprodukts sind und wie sie euer Softwaresystem sehen. Sind sie damit eher die Gewinner bzw. oder Nutznießer? Oder verlieren sie etwas, wenn euer Softwaresystem erfolgreich ist? Haben sie eine Hidden Agenda und manipulieren euere Entwicklung vielleicht sogar?
+There are people involved with and around your software who have a huge influence without you knowing it. Find out which persons have an important role in the success of your software product as well as how much and how they perceive your software system. Are they rather winners or beneficiaries? Or do they tend to lose something if your software system is successful? Do they have a hidden agenda and maybe even manipulate your development?
 
-Geht entsprechend der Ansichten über euer Softwaresystem auf die jeweiligen Personen zu:
-* Wie könnt ihr Influencer besser informieren?
-* Wie könnt ihr Zusicherungen nachhalten?
-* Wen könnt ihr besser in die Pflicht nehmen?
-* Wer kann euch helfen, wenn ihr etwas eskalieren müsst?
+Approach the respective persons according to their views about your software system:
 
-**Mehr Informationen**
-* Verwandte Methode der [Stakeholder Analysis](https://gamestorming.com/stakeholder-analysis/)
+* How can you improve communication to influencers?
+* How can you keep assurances?
+* Who can be held accountable more effectively?
+* Who can support you if you need to escalate something?
+
+**More information**
+
+* Related method of [Stakeholder Analysis](https://gamestorming.com/stakeholder-analysis/)
