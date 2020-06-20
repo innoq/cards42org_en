@@ -1,12 +1,11 @@
 ---
 name: Der goldene Zauberstab
 ---
-Wäre es nicht schön, wie Hermine Granger in "Harry Potter" den Zauberstab schwingen zu können
-und sofort ist die Brille &ndash; oder in unserem Fall ein Software-System &ndash; repariert?
+Wouldn't it be nice to be able to wave the magic wand like Hermione Granger in "Harry Potter" and immediately the glasses  - or in our case software systems - are repaired?
 
-Leider ist die Welt nicht so einfach und wir haben keinen Weg, um per Zauberspruch unsere Probleme zu lösen.
-Stattdessen bedarf es viel harter Arbeit, um problematische Systeme zurück in geordnete Bahnen zu führen.
+Unfortunately our world is not that simple and we have no magic spell to solve our problems.
+Instead, it takes a lot of hard work to restore problematic systems back into order.
 
-Aber vielleicht hilft es euch beim Nachdenken, wenn ihr unseren goldenen Zauberstab schwingt. Überlegt euch,
-was euer Zauberspruch reparieren würde, wenn ihr die Möglichkeit hättet. Diskutiert anschließend die Ergebnisse in der Gruppe. 
-Und wer weiß, vielleicht findet sich ja ein magischer Einfall, der das ein oder andere Problem löst.
+But maybe it will help you to reflect if you wave our golden wand. Think,
+what your spell would fix if you had the chance. Afterwards, discuss the results in the group. 
+And who knows, maybe you'll come up with a magical idea that could solve a problem or two.
