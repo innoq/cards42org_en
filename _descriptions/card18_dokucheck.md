@@ -1,7 +1,7 @@
 ---
 name: Checkliste Dokumentation
 ---
-Oft haben wir hunderte Seiten Dokumentation &ndash; und gefühlt versteht diese niemand oder sie ist hoffnungslos veraltet. In der Folge wird meist weniger Dokumentation erstellt oder vorhandene nicht mehr weiter gepflegt. Selten hinterfragen wir allerdings den Grund für das Unverständnis. Mit unserer Checkliste könnt ihr in ein paar Minuten prüfen, ob die vorhandene Dokumentation korrekt auf die Zielgruppe abgestimmt und auf dem aktuellen Stand ist. 
+Often we have several hundred pages of documentation &ndash; and nobody seems to understand it or it is hopelessly out of date. As a result, little documentation is usually created or existing documentation is no longer being maintained. Rarely do we question the reasons for this lack of understanding. With our checklist you can verify in a few minutes whether the existing documentation is properly tailored to the target group and up to date. 
 
-Hakt dafür bei jedem Aspekt, den ihr klar mit "Ja!" beantworten könnt, das entsprechende Kästchen an. Gibt es Aspekte die nicht OK sind? Dann habt ihr schon die ersten Anhaltspunkte, wo ihr eure Dokumentation schrittweise verbessern könnt. Idealerweise führt ihr diesen Check regelmäßig durch, damit ihr sicher sein könnt, dass eure Dokumentation immer zielgerichtet und aktuell bleibt.
+Please tick the appropriate box for each question that you can answer with a clear "Yes". Are there certain areas that are not OK? Then you already have the first hints where you can improve your documentation step by step. Ideally, you should do this check regularly, so that you can be sure that your documentation is always up to date and targeted.
 
