@@ -2,21 +2,11 @@
 name: Businessability
 ---
 
-Wer kennt es nicht: Man darf ein neues Projekt starten und hat die Qual der Wahl bei
-der Auswahl der zu nutzenden Technologie. Als Techniker\*in nimmt man natürlich am liebsten
-die neueste Sprache oder das neueste und hipste Framework, aber ist das wirtschaftlich
-überhaupt vertretbar? Häufig gibt es für neue Technik kaum Support, wenige Spezialisten 
-und hier und da muss auch das Rad erst wieder neu erfunden werden. Das alles kostet Geld &ndash;
-im Worst Case sehr viel Geld. Damit ihr den wirtschaftlichen Faktor einer Technologieentscheidung
-nicht vernachlässigt, hilft euch diese Karte, die wichtigsten Fragen zu beantworten.
+Everybody has experienced it: You are allowed to start a new project and are spoilt for choice when it comes to the selection of technologies to be used.  As a engineer, of course, one prefers to take the latest programming language or the latest and hottest framework, but is it economically even justifiable? Often there is hardly any support for new technology, few specialists exists and ocassionally the wheel also has to be reinvented. All this costs money &ndash; in the worst case, a lot of money. In order for you to understand the economical factor of a technology decision, this card will help you to answer the most important questions.
 
-Vergleicht dazu zwei Technologien, die ihr für euer Projekt auswählen würdet. Dann
-entscheidet für jede Frage, welche der beiden die Anforderungen besser erfüllt. Dazu könnt ihr ein für
-euch passendes Bewertungssystem nutzen, beispielsweise eine Bewertungsskala von 1-5. Zählt am
-Ende die Einzelbewertungen pro Technologie zusammen und vergleicht das Ergebnis. Möglicherweise
-seid ihr überrascht, dass vielleicht doch nicht die neue Supertechnologie "gewonnen" hat, sondern
-etwas Älteres und Etabliertes. 
+To do this, compare two technologies that you would choose for your project. Then
+decides for each question which of the two meets the requirements better.You can use a rating system that suits you, for example a scale from 1-5. 
+At the end sum up the individual score per technology and compare the results. You may be surprised that perhaps it is not the new super technology that has "won" but something older and more established. 
 
-Das Ergebnis dieser Bewertung könnt ihr nun für die weitere Projektplanung und eine Architekturdokumentation nutzen. 
-Außerdem hilft euch die Bewertung dabei, eine Entscheidung auch bei Projektleiter\*innen / -manager\*innen vertreten zu können, 
-die weniger auf Technik, aber dafür umso mehr auf Wirtschaftlichkeit einer Lösung achten.
+You can now use the result of this evaluation for further project planning and architectural documentation. 
+The evaluation also helps you to be able to support your decision to the project manager, who pay less attention to technology, but all the more to the economic efficiency of a solution.
