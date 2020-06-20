@@ -2,20 +2,15 @@
 name: Nicht eingeschlagene Wege
 ---
 
-Jeden Tag werden Entscheidungen getroffen, die unsere Software oft langfristig
-gestalten. Jeder dieser Entscheidungen liegen mehrere Optionen zu Grunde,
-von denen allerdings immer nur eine als Lösungsansatz gewählt werden kann.
-Die gewählte Option wird meistens in einer Architekturdokumentation beschrieben und ist damit
-nachvollziehbar. Was ist aber mit den Optionen, die ebenfalls betrachtet aber nicht
-ausgewählt wurden? Auch diese sollten dokumentiert werden, um die getroffenen Entscheidungen
-langfristig nachvollziehen zu können.
+Every day, decisions are taken which often have a long-term impact on our software.
+design. Each of these decisions is based on several alternatives, of which, however, only one can ever be selected as a solution approach.
+The selected solution is usually described in an architecture documentation and is therefore comprehensible. But what about the alternatives, which have also been considered but were not chosen?These should also be documented so that the decisions made can be understood in the long term.
 
-Überlegt euch nun, welche Wege ihr bewusst nicht in eurer Software eingeschlagen habt.
-Tragt diese auf der Karte ein und beschreibt, was der Grund für die Ablehnung der einzelnen Optionen
-war. Die Ergebnisse dieser Karte könnt ihr beispielsweise verwenden, um **Architecture Decision Records**
-für eure Software anzulegen, um so deren Historie nachvollziehbarer zu gestalten.
 
-**Mehr Informationen**
+Now, think about which paths you deliberately did not follow in your software.
+Write them down on the card and describe what the reasons for the rejection of the individual alternative was. You can use the results of this map to create **Architecture Decision Records** for your software to make its history more comprehensible.
 
-* [Einstiegsseite für das Thema ADR](https://adr.github.io/)
-* [Initiale Vorstellung der Idee von ADRs](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
+**More Information**
+
+* [Introductory page for the topic ADR](https://adr.github.io/)
+* [Initial presentation of the idea of ADRs](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
