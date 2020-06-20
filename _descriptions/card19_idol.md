@@ -1,14 +1,14 @@
 ---
 name: Was würde ___ tun?
 ---
-Ihr wisst bei einem kniffligen Problem nicht mehr weiter?
-Ihr müsst etwas schnell umsetzen, habt aber eine Denkblockade?
-Ihr seid verzweifelt, weil euch die einfachsten Ideen fehlen?
+You are stuck with a challenging problem?
+You have to implement something swiftly, but are stuck in your thoughts?
+You are desperate because you lack the most simple ideas?
 
-Fragt euch: Was würde jetzt eine Person, zu der ihr aufschaut, in eurer Situation machen?
+Ask yourself: What would a person you admire do in your situation?
 
-- Was würde Margaret Hamilton über eure "Herausforderungen" bei der Umsetzung von zuverlässiger Software sagen?
-- Wie würde James Bond die Performance-Bottlenecks mit der Datenbank eliminieren?
-- Was würde das Krümelmonster mit euren zahlreichen Ticket-Leichen tun?
+- What would Margaret Hamilton say about your "challenges" in developing and implementing reliable software?
+- How would James Bond eliminate performance bottlenecks with the database?
+- What would the Cookie Monster do with your numerous zombie tickets?
 
-Zieht euch aus eurer misslichen Lage, indem ihr euch bewusst eine andere Sichtweise auf eure Probleme schafft!
+Get out of your pitfall by consciously creating a different perspective on your problems!
