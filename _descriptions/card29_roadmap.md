@@ -1,19 +1,21 @@
 ---
 name: Technologie-Roadmap
 ---
-Kennst ihr das? Ihr kommt ganz frisch von einer Konferenz und möchtet den ganzen neuen Kram jetzt und sofort bei euch umsetzen. Dann aber denkt ihr darüber nach, und irgendetwas hindert euch dann doch daran: der ganze vorhandene alte Kram!
+Recognize this? You've just returned from a conference and would like to put all this new stuff into practice right now. But then you think about it, and realize something is stopping you: all the old stuff you have!
 
-Es sind oft die vorhandenen Rahmenbedingungen, welche es (zumindest jetzt) schwer machen, den Tech-Stack zu aktualisieren. Aber wie könnt ihr frühzeitig kommunizieren, dass ihr schon die ein oder andere neue Sache im Blick habt?
+It's often the existing constraints that make it difficult (at least for now) to update the tech stack. But how can you make it visible early on that you already have some new stuff in mind?
 
-Diese Karte hilft euch, einen klaren Kopf zu behalten, anstatt zu verzweifeln und das Handtuch zu werfen. Legt offen, welche Technologie ihr in welchem Stadium der Adaption seht. Bewertet nicht nur die neuen Trend-Themen, welche ihr interessant für eure Software findet, sondern versucht auch, bereits verwendete Technologie in eine der folgenden Stadien einzuordnen und damit die aktuelle Sichtweise auf die Technologien zu kommunizieren:
+This card can help you to keep a clear head instead of despairing and throwing in the towel early. Explain what technology you perceive at which stage of adaptation. Do not only assess the new trendy topics that you find interesting for your software, but also try to match already used technology to one of the following stages and thus communicate the current view on the technologies:
 
-1. **Abwarten**: Schon gehört, passt jetzt noch nicht direkt zu uns
-2. **Ansehen**: Könnte interessant sein, wir informieren uns näher
-3. **Austesten**: Es gibt einen guten Anwendungsfall, den wir umsetzen
-4. **Anwenden**: Ja, hat sich bewährt, wir nehmen das jetzt ins Standardportfolio
-5. **Aufhören**: Ok, wir wollen hier langsam mal weg davon
-6. **Abbauen**: Überall, wo wir darüber stolpern, kommt es raus
+1. **Hold on**: Already heard, doesn't really fit to us yet
+2. **Consider**: Could be interesting, we'll find out more
+3. **Test**: There's a good use case that we're implementing
+4. **Utilize**: Yes, it's worked out well, we're adding it to our standard portfolio
+5. **Stop**: Okay, we're gonna get out of here.
+6. **Dispose**: Everywhere we stumble on it, it gets removed
 
-**Mehr Informationen**
 
-* Ein ähnliches Vorgehen ist im [Technology Radar](https://www.thoughtworks.com/de/radar) zu finden (welches wir zur Inspiration nutzten)
+**More information**
+
+* A similar procedure can be found in the [Technology Radar](https://www.thoughtworks.com/de/radar) (which we used for inspiration)
+
