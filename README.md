@@ -1,6 +1,6 @@
 # cards42.org
 
-**Current status: We're translating this project into English!**
+**Current status: We're translating this project into English. Take a look at [the current version of the website](https://innoq.github.io/cards42org_en/)!
 
 ## What is this place?
 
