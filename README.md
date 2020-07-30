@@ -1,5 +1,7 @@
 # cards42.org
 
+**Current status: We're translating this project into English!**
+
 ## What is this place?
 
 This is the repository for the website [cards42.org](https://cards42.org). The cards42 project consists (in the final stage) of 42 cards, which support software architects in their daily architectural work.
