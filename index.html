@@ -1,8 +1,8 @@
 ---
-title: cards42 - Die Mitmach-Karten für Softwarearchitekt*innen
+title: cards42 - The activity cards for software architects
 ---
 <!doctype html>
-<html lang="de">
+<html lang="en">
 
 <head>
     <meta charset="utf-8">
@@ -20,15 +20,17 @@ title: cards42 - Die Mitmach-Karten für Softwarearchitekt*innen
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="831" />
     <meta property="og:image:height" content="558" />
-    <meta property="og:image:alt" content="Ein Übersichtsbild der Karten des cards42-Projekts" />
+    <meta property="og:image:alt" content="An overview of the cards of the cards42 project" />
 
     <script src="https://assets.innoq.com/chenin.js"></script>
     <script src="assets/js/polyfill.min.js?features=IntersectionObserver"></script>
     <script src="assets/js/lozad.min.js"></script>
     <script src="assets/js/index.js"></script>
-    <script>
+
+    {% comment %} temporarily disabled until we really go live! {% endcomment %}
+    <!-- <script>
         new Chenin({siteId: 3, hashMode: true});
-    </script>
+    </script>-->
     
 </head>
 
@@ -40,7 +42,7 @@ title: cards42 - Die Mitmach-Karten für Softwarearchitekt*innen
                 <div class="col span_2_of_2">
                     <h1><span class="font250">cards<span class="red">42</span></span><span class="font100">.org</span></h1>
 
-                    <img class="card-header" src="assets/cards42_header.jpg" alt="Darstellung verschiedener cards42-Karten als Beispiel">
+                    <img class="card-header" src="assets/cards42_header.jpg" alt="Display of different cards42 cards as an example">
 
                     <div class=" font150">
                         <strong class="red">C</strong>ards for 
@@ -58,13 +60,13 @@ title: cards42 - Die Mitmach-Karten für Softwarearchitekt*innen
     <div class="section">
         <div class="group">
             <div class="col span_2_of_2">
-                <p>Die Begleitseite zum cards42-Projekt.</p>
+                <p>The accompanying page to the cards42 project.</p>
 
-                <h2>Einleitung</h2>
+                <h2>Introduction</h2>
 
-                Willkommen beim cards42-Projekt! Die Karten von cards42 unterstützen bei der täglichen Arbeit mit Softwarearchitekturen. Die Karten geben kurze Denkanstöße für festgefahrene Situationen und helfen, neues Licht auf schwierige Herausforderungen zu werfen.
+                Welcome to the cards42 project! The cards from cards42 support the daily work with software architectures. The cards give short thought-provoking impulses for deadlocked situations and help to shed new light on difficult challenges.
 
-                Diese Webseite bietet ausführliche Erklärungen sowie die Hintergründe und weitere Informationen zu den Karten.
+                This website offers detailed explanations as well as the background and further information about the cards.
             </div>
         </div>
     </div>
@@ -72,9 +74,9 @@ title: cards42 - Die Mitmach-Karten für Softwarearchitekt*innen
     <div class="section">
         <div class="group">
             <div class="col span_2_of_2">
-                <h2 id="uebersicht">Übersicht</h2>
+                <h2 id="uebersicht">Overview</h2>
                 <code>
-                    {% comment %} techdebt: Hohe Code-Duplikation mit der untereren Erzeugung der Kartenauflistung {% endcomment %}
+                    {% comment %} techdebt: High code duplication with the lower card listing generation {% endcomment %}
                 
                     {% for card in site.descriptions %} 
                     {% assign path_tokens = card.path | split: '/' %}
@@ -95,7 +97,7 @@ title: cards42 - Die Mitmach-Karten für Softwarearchitekt*innen
     <div class="section">
         <div class="group">
             <div class="col span_2_of_2">
-                <h2>Karten</h2>
+                <h2>Cards</h2>
             </div>
         </div>
     </div>
@@ -108,14 +110,14 @@ title: cards42 - Die Mitmach-Karten für Softwarearchitekt*innen
     <div class="section">
         <div class="group">
             <div class="col span_2_of_2">
-                <h3 id="{{tag}}" class="card-title">{{ card.name }}   <a href="#uebersicht" class="no-decoration triangle">&#9650;</a></h3> 
+                <h3 id="{{tag}}" class="card-title">{{ card.name }}   <a href="#overview" class="no-decoration triangle">&#9650;</a></h3> 
                 <a href="#{{tag}}" class="no-decoration"><code>#{{tag}}</code></a>
             </div>
         </div>
         <div class="group">
             <div class="col span_1_of_2">
                 <img class="card-image lozad" data-src="cards/{{image}}.png" />
-                <noscript><img class="card-image" src="cards/{{image}}.png" alt="Das Bild für die Karte mit dem Namen {{card.name}}" /></noscript>
+                <noscript><img class="card-image" src="cards/{{image}}.png" alt="The image for the card with the name {{card.name}}" /></noscript>
                 <small><br/>
                     Download:
                         <a href="cards/{{image}}.png" download="{{image}}_{{tag}}.png">PNG</a>
@@ -141,7 +143,7 @@ title: cards42 - Die Mitmach-Karten für Softwarearchitekt*innen
     {% endfor %}
 
     <div id="footer">
-        Unterstützt von <a href="https://innoq.com/">innoQ Deutschland GmbH</a> &vert; <a href="https://www.innoq.com/de/datenschutz">Datenschutz</a> &vert; <a href="https://www.innoq.com/de/impressum/#innoqdeutschlandgmbh">Impressum</a> &vert; <a href="https://www.twitter.com/cards42org">Twitter</a>  
+        Supported by <a href="https://innoq.com/">innoQ Deutschland GmbH</a> &vert; <a href="https://www.innoq.com/en/datenschutz">Data Privacy</a> &vert; <a href="https://www.innoq.com/en/imprint/">Imprint</a> &vert; <a href="https://www.twitter.com/cards42org">Twitter</a>  
     </div>
 </body>
 
