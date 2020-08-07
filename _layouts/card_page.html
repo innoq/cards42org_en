@@ -17,12 +17,12 @@ layout: default
     <div class="section">
         <div class="group">
             <div class="col span_1_of_2">
-                <img class="card-image lozad" data-src="{{site.url}}/cards/{{image}}.png" />
-                <noscript><img class="card-image" src="cards/{{image}}.png" alt="The image for the card with the name {{card.name}}" /></noscript>
+                <img class="card-image lozad" data-src="{{site.baseurl}}/cards/{{image}}.png" />
+                <noscript><img class="card-image" src="{{site.baseurl}}/cards/{{image}}.png" alt="The image for the card with the name {{card.name}}" /></noscript>
                 <small><br/>
                     Download:
-                        <a href="cards/{{image}}.png" download="{{image}}_{{tag}}.png">PNG</a>
-                        {% comment %} <a href="cards_svg/{{image}}.svg" download="{{image}}_{{tag}}.svg">SVG</a>{% endcomment %}
+                        <a href="{{site.baseurl}}/cards/{{image}}.png" download="{{image}}_{{tag}}.png">PNG</a>
+                        {% comment %} <a href="{{site.baseurl}}/cards_svg/{{image}}.svg" download="{{image}}_{{tag}}.svg">SVG</a>{% endcomment %}
                 </small>
             </div>
             <div class="col span_1_of_2">
@@ -33,7 +33,7 @@ layout: default
     <div class="section">
       <div class="group">
         <p>
-        <a href="{{site.url}}/#overview" class="no-decoration"><b>&#9668 Take me to all the other cards!</b></a>
+        <a href="{{site.baseurl}}/#overview" class="no-decoration"><b>&#9668 Take me to all the other cards!</b></a>
       </p>
       </div>
     </div>
