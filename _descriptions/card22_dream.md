@@ -1,5 +1,7 @@
 ---
-name: Traum
+name: Dream Project's Checklist
+layout: card_page
+slug: dream
 ---
 We, the techies, often can't wait to kick start a new software project.
 But too rarely we ask ourselves: "Are the fundamentals for a successful software system known to us?"

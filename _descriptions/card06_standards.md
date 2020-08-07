@@ -1,5 +1,7 @@
 ---
-name: Arbeite ich nach gängigen Entwicklungsstandards?
+name: Do I work according to common Development Standards?
+layout: card_page
+slug: standards
 ---
 With software becoming more and more complex, more and more standards have years, which have been proven to positively influence the development and evolution of a software system. 
 

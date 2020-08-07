@@ -1,150 +1,83 @@
 ---
 title: cards42 - The activity cards for software architects
+layout: default
 ---
-<!doctype html>
-<html lang="en">
 
-<head>
-    <meta charset="utf-8">
-    <title>{{page.title}}</title>
-    <link rel="stylesheet" type="text/css" href="assets/style.css">
-    <link rel="shortcut icon" type="image/png" href="favicon.png">
-    <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="cards42.org" />
-    <meta property="og:description" content="Cards for Analyzing and Reflecting on Doomed Software" />
-    <meta property="og:url" content="https://www.cards42.org/" />
-    <meta property="og:site_name" content="cards42.org" />
-    <meta property="og:image" content="http://cards42.org/assets/cards42_preview.jpg" />
-    <meta property="og:image:secure_url" content="https://cards42.org/assets/cards42_preview.jpg" />
-    <meta property="og:image:type" content="image/jpeg" />
-    <meta property="og:image:width" content="831" />
-    <meta property="og:image:height" content="558" />
-    <meta property="og:image:alt" content="An overview of the cards of the cards42 project" />
+    <div class="section">
+        <div class="group">
+            <div class="col span_2_of_2">
+                <h1><span class="font250">cards<span class="red">42</span></span><span class="font100">.org</span></h1>
 
-    <script src="https://assets.innoq.com/chenin.js"></script>
-    <script src="assets/js/polyfill.min.js?features=IntersectionObserver"></script>
-    <script src="assets/js/lozad.min.js"></script>
-    <script src="assets/js/index.js"></script>
+                <img class="card-header" src="assets/cards42_header.jpg" alt="Display of different cards42 cards as an example">
 
-    {% comment %} temporarily disabled until we really go live! {% endcomment %}
-    <!-- <script>
-        new Chenin({siteId: 3, hashMode: true});
-    </script>-->
-    
-</head>
-
-<body>
-    
-    <div id="main">
-        <div class="section">
-            <div class="group">
-                <div class="col span_2_of_2">
-                    <h1><span class="font250">cards<span class="red">42</span></span><span class="font100">.org</span></h1>
-
-                    <img class="card-header" src="assets/cards42_header.jpg" alt="Display of different cards42 cards as an example">
-
-                    <div class=" font150">
-                        <strong class="red">C</strong>ards for 
-                        <strong class="red">A</strong>nalyzing and 
-                        <strong class="red">R</strong>eflecting on 
-                        <strong class="red">D</strong>oomed 
-                        <strong class="red">S</strong>oftware
-                    </div>
-                    
+                <div class=" font150">
+                    <strong class="red">C</strong>ards for 
+                    <strong class="red">A</strong>nalyzing and 
+                    <strong class="red">R</strong>eflecting on 
+                    <strong class="red">D</strong>oomed 
+                    <strong class="red">S</strong>oftware
                 </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="section">
-        <div class="group">
-            <div class="col span_2_of_2">
-                <p>The accompanying page to the cards42 project.</p>
-
-                <h2>Introduction</h2>
-
-                Welcome to the cards42 project! The cards from cards42 support the daily work with software architectures. The cards give short thought-provoking impulses for deadlocked situations and help to shed new light on difficult challenges.
-
-                This website offers detailed explanations as well as the background and further information about the cards.
-            </div>
-        </div>
-    </div>
-
-    <div class="section">
-        <div class="group">
-            <div class="col span_2_of_2">
-                <h2 id="uebersicht">Overview</h2>
-                <code>
-                    {% comment %} techdebt: High code duplication with the lower card listing generation {% endcomment %}
                 
-                    {% for card in site.descriptions %} 
-                    {% assign path_tokens = card.path | split: '/' %}
-                    {% assign file_tokens = path_tokens[1] | split: '_' %}
-                    {% assign tag = file_tokens[1] | remove: ".md" %}
-                    {% assign tags = tags | append: tag | append: " " %}
-                    {% endfor %}
-                    
-                    {% assign sorted_tags = tags | split: " " | sort %}
-                    {% for sorted_tag in sorted_tags %}
-                    <a href="#{{sorted_tag}}">#{{sorted_tag}}</a> 
-                    {% endfor %}
-
-                </code>
             </div>
         </div>
     </div>
-    <div class="section">
-        <div class="group">
-            <div class="col span_2_of_2">
-                <h2>Cards</h2>
-            </div>
+
+<div class="section">
+    <div class="group">
+        <div class="col span_2_of_2">
+            <p>The accompanying page to the cards42 project.</p>
+
+            <h2>Introduction</h2>
+
+            Welcome to the cards42 project! The cards from cards42 support the daily work with software architectures. The cards give short thought-provoking impulses for deadlocked situations and help to shed new light on difficult challenges.
+
+            This website offers detailed explanations as well as the background and further information about the cards.
         </div>
     </div>
-    {% for card in site.descriptions %}
-    {% assign path_tokens = card.path | split: '/' %}
-    {% assign file_tokens = path_tokens[1] | split: '_' %}
-    {% assign image = file_tokens[0] %}
-    {% assign tag = file_tokens[1] | remove: ".md" %}
+</div>
 
-    <div class="section">
-        <div class="group">
-            <div class="col span_2_of_2">
-                <h3 id="{{tag}}" class="card-title">{{ card.name }}   <a href="#overview" class="no-decoration triangle">&#9650;</a></h3> 
-                <a href="#{{tag}}" class="no-decoration"><code>#{{tag}}</code></a>
-            </div>
-        </div>
-        <div class="group">
-            <div class="col span_1_of_2">
-                <img class="card-image lozad" data-src="cards/{{image}}.png" />
-                <noscript><img class="card-image" src="cards/{{image}}.png" alt="The image for the card with the name {{card.name}}" /></noscript>
-                <small><br/>
-                    Download:
-                        <a href="cards/{{image}}.png" download="{{image}}_{{tag}}.png">PNG</a>
-                        <a href="cards_svg/{{image}}.svg" download="{{image}}_{{tag}}.svg">SVG</a>
-                </small>
-            </div>
-            <div class="col span_1_of_2">
-                {{ card.content | markdownify }}
-            </div>
+<div class="section">
+    <div class="group">
+        <div class="col span_2_of_2">
+            <h2 id="overview">Overview</h2>
+            <code>
+                {% comment %} techdebt: High code duplication with the lower card listing generation {% endcomment %}
+            
+                {% for card in site.descriptions %} 
+                {% assign path_tokens = card.path | split: '/' %}
+                {% assign file_tokens = path_tokens[1] | split: '_' %}
+                {% assign tag = file_tokens[1] | remove: ".md" %}
+                {% assign tags = tags | append: tag | append: " " %}
+                {% endfor %}
+                
+                {% assign sorted_tags = tags | split: " " | sort %}
+                {% for sorted_tag in sorted_tags %}
+                <a href="#{{sorted_tag}}">{{sorted_tag}}</a> 
+                {% endfor %}
+
+            </code>
         </div>
     </div>
-    {% endfor %}
-
-    {% for i in site.info %}
-    <div class="section info-section">
-        <div class="group">
-            <div class="col span_2_of_2">        
-                <h2 id="{{i.title | url_encode | downcase }}">{{ i.title }}</h2>
-                {{ i.content | markdownify }}
-            </div>
+</div>
+<div class="section">
+    <div class="group">
+        <div class="col span_2_of_2">
+            <h2>Cards</h2>
         </div>
     </div>
-    {% endfor %}
+</div>
+{% for card in site.descriptions %}
+    {% include card.html %}
+{% endfor %}
 
-    <div id="footer">
-        Supported by <a href="https://innoq.com/">innoQ Deutschland GmbH</a> &vert; <a href="https://www.innoq.com/en/datenschutz">Data Privacy</a> &vert; <a href="https://www.innoq.com/en/imprint/">Imprint</a> &vert; <a href="https://www.twitter.com/cards42org">Twitter</a>  
+{% for i in site.info %}
+<div class="section info-section">
+    <div class="group">
+        <div class="col span_2_of_2">        
+            <h2 id="{{i.title | url_encode | downcase }}">{{ i.title }}</h2>
+            {{ i.content | markdownify }}
+        </div>
     </div>
-</body>
+</div>
+{% endfor %}
 
-</html>

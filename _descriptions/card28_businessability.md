@@ -1,5 +1,7 @@
 ---
 name: Businessability
+layout: card_page
+slug: businessability
 ---
 
 Everybody has experienced it: You are allowed to start a new project and are spoilt for choice when it comes to the selection of technologies to be used.  As a engineer, of course, one prefers to take the latest programming language or the latest and hottest framework, but is it economically even justifiable? Often there is hardly any support for new technology, few specialists exists and ocassionally the wheel also has to be reinvented. All this costs money &ndash; in the worst case, a lot of money. In order for you to understand the economical factor of a technology decision, this card will help you to answer the most important questions.

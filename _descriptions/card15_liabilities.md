@@ -1,5 +1,7 @@
 ---
-name: Technische Schulden
+name: Technical Liabilities
+layout: card_page
+slug: liabilities
 ---
 The term "technical debt" already seems very jaded, vague and even abstract today. Make it clear what is meant by this term within your team for your software system. Estimate what kind and how much of "technical debt" you are carrying. Define and discuss the found issues among yourselves, so that it becomes clearer what your software system really lacks.
 

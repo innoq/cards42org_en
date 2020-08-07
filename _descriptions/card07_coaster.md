@@ -1,5 +1,7 @@
 ---
-name: Meine Architektur
+name: My Software Architecture
+layout: card_page
+slug: coaster
 ---
 <q>The system is too complex to sketch it out in a brief! </q> &ndash; this or something along those lines has certainly been a phrase every developer has heard before.
 

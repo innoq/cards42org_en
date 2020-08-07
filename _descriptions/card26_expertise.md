@@ -1,5 +1,7 @@
 ---
-name: How to learn X
+name: How to learn X?
+layout: card_page
+slug: expertise
 ---
 
 None of us can do everything, but surely each of us can do something especially well.

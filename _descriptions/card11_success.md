@@ -1,5 +1,7 @@
 ---
-name: Erfolg in der Zukunft
+name: Future Success
+layout: card_page
+slug: success
 ---
 Often there are very obvious solutions in front of us, which contribute significantly to the success of a software system, but we do not see them yet. We are too much caught with our narrow-mindedness in our daily business.
 

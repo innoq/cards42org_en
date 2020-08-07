@@ -2,7 +2,7 @@
 title: Contributors
 ---
 * [Markus Harrer](https://www.innoq.com/en/staff/markus-harrer/) (Translation, initial idea and prototypical card design)
-* Martina (many translations)
+* martina (many translations, examples for cards)
 
 Contributors to the original, German version:
 * [Sonja Scheungrab](https://www.innoq.com/en/staff/sonja-scheungrab/) (Re-design and printing)

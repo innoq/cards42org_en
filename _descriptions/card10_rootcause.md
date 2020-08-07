@@ -1,5 +1,7 @@
 ---
 name: Root Cause Analysis
+layout: card_page
+slug: rootcause
 ---
 Software developers solve hundreds of small and large issues on a daily basis. We are therefore conditioned to work out solutions quickly. However, in some challenging situations this is counterproductive. We often react with our trained solution repertoire to the first apparent problem that seems obvious to us.
 

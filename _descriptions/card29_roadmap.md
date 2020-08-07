@@ -1,5 +1,7 @@
 ---
-name: Technologie-Roadmap
+name: Technology Roadmap
+layout: card_page
+slug: roadmap
 ---
 Recognize this? You've just returned from a conference and would like to put all this new stuff into practice right now. But then you think about it, and realize something is stopping you: all the old stuff you have!
 

@@ -1,5 +1,7 @@
 ---
 name: Architektur-Quick-Check
+layout: card_page
+slug: quickcheck
 ---
 Important quality attribute goals significantly determine decision-making in the implementation of software systems. In this quick check you can compare your TOP 3 quality attribute  goals with the implemented solution to check if they fit together.
 

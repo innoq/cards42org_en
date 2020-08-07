@@ -1,5 +1,7 @@
 ---
-name: Standortbestimmung
+name: Positioning
+layout: card_page
+slug: positioning
 ---
 Many teams are not aware how great their software actually is and where dangers lurk for their success. The analysis of the current situation helps you to find unused opportunities and identify blind spots.
 

@@ -1,5 +1,7 @@
 ---
-name: Mein schmerzhaftestes Problem
+name: My most Painful Problem
+layout: card_page
+slug: pain
 ---
 Issues cause costs. If those costs of the issue are disproportionately higher than the costs of the solution, it is profitable to address the issues for economic reasons.
 

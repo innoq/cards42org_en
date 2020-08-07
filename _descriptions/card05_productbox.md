@@ -1,5 +1,7 @@
 ---
-name: Deine Produktbox
+name: Your Product Box
+layout: card_page
+slug: productbox
 ---
 Often the vision or the goal is missing in aging software systems. What is the right path? For whom are we doing all this? Does it even make sense anymore?
 

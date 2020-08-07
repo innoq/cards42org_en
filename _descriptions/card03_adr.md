@@ -1,5 +1,7 @@
 ---
 name: Architecture Decision Record
+layout: card_page
+slug: adr
 ---
 In software systems which has been under development for a long time, it becomes very difficult over time to understand decisions made in the past. Therefore it is important to document decisions and their motives in an understandable way.
 

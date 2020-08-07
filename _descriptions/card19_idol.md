@@ -1,5 +1,7 @@
 ---
-name: Was würde ___ tun?
+name: What would ___ do?
+layout: card_page
+slug: idol
 ---
 You are stuck with a challenging problem?
 You have to implement something swiftly, but are stuck in your thoughts?

@@ -1,5 +1,7 @@
 ---
-name: Vermeide den &#35;Shitstorm!
+name: Avoid the &#35;Shitstorm!
+layout: card_page
+slug: shitstorm
 ---
 There are people involved with and around your software who have a huge influence without you knowing it. Find out which persons have an important role in the success of your software product as well as how much and how they perceive your software system. Are they rather winners or beneficiaries? Or do they tend to lose something if your software system is successful? Do they have a hidden agenda and maybe even manipulate your development?
 

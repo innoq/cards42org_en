@@ -1,5 +1,7 @@
 ---
-name: Die 8-Stunden-Torte
+name: The 8-hour Cake
+layout: card_page
+slug: cake
 ---
 <q>Der Tag hat 24h und die Nacht ist auch noch da.</q> &mdash; Unbekannt.
 

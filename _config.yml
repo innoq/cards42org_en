@@ -1,5 +1,7 @@
 collections:
   descriptions:
     directory: descriptions
+    permalink: :title/
+    output: true
   info:
     directory: info

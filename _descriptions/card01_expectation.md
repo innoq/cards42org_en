@@ -1,5 +1,7 @@
 ---
 name: ResourceAllocationExpectation
+layout: card_page
+slug: expectation
 ---
 We are often trapped in our own world with all its restrictions. We are conditioned to be modest &ndash; our solutions are modest as well.
 

@@ -1,5 +1,7 @@
 ---
-name: Investment-Sanity-Checker
+name: Investment Sanity Checker
+layout: card_page
+slug: investment
 ---
 Investments reveal a lot about the status of a software project.
 Often you as an architect have to deal with technical matters (*important*) in contrast to the product matters (*urgent*).

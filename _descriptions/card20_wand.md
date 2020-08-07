@@ -1,5 +1,7 @@
 ---
-name: Der goldene Zauberstab
+name: The Conjurer's Wand
+layout: card_page
+slug: wand
 ---
 Wouldn't it be nice to be able to wave the magic wand like Hermione Granger in "Harry Potter" and immediately the glasses  - or in our case software systems - are repaired?
 

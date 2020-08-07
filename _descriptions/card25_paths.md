@@ -1,5 +1,7 @@
 ---
-name: Nicht eingeschlagene Wege
+name: Paths not taken
+layout: card_page
+slug: paths
 ---
 
 Every day, decisions are taken which often have a long-term impact on our software.

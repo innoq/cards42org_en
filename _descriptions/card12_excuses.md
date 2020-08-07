@@ -1,5 +1,7 @@
 ---
-name: Wie schlimm redest Du Dir das Dokumentieren?
+name: How bad are you Talking about Documenting to Yourself?
+layout: card_page
+slug: excuses
 ---
 Writing documentation is one of the most unpopular tasks in software development. Very frequently the importance of documentation is not appreciated or dismissed as cumbersome.
 

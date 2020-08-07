@@ -1,10 +1,12 @@
 ---
-name: Kundennutzen
+name: What's the user's need?
+layout: card_page
+slug: value
 ---
 *"Let's add this new framework that was launched last week!"*
 
 I'm sure in one of your projects you have heard this statement in a similar form before or even made it yourself.
-First and foremost, you develop your software for your users or customers.
+First and foremost, you develop your software for your users (or customers).
 And yet, far too little attention is paid to this when making decisions,
 what benefits your target group has from the upcoming change. 
 

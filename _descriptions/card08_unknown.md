@@ -1,5 +1,7 @@
 ---
-name: Der unbekannte Bekannte
+name: The Unknown Familiar
+layout: card_page
+slug: unknown
 ---
 Probably every person involved in a software project in a technical role has already encountered this problem: You think you're doing everything right, but suddenly a stakeholder wants something completely different. The lack of understanding is a huge, frustration increases.
 

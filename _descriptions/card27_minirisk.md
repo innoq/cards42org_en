@@ -1,5 +1,7 @@
 ---
 name: Risikominimierung
+layout: card_page
+slug: minirisk
 ---
 Although we hate to hear it: risks are part of our projects
 from the very first moment. Often, however, both these risks and their countermeasures are forgotten to be documented accordingly. This can later have fatal consequences if, for example, you have relied on too fragile adjacent systems, or perhaps also ignored relevant regulatory issues.
