@@ -19,7 +19,7 @@ Assess the time you spend according to whether you are driven by a workload or w
 * How much time do you expend on unplanned work?
 * How much time is spent on routine tasks?
 
-**More information**
+**More Information**
 
 * [Pomodoro technique for better time management](https://francescocirillo.com/pages/pomodoro-technique)
 * The book [Project Phoenix](https://www.oreilly.de/buecher/12508/9783958751750-projekt-phoenix.html) gives plenty tips for designing of your own work more effectively

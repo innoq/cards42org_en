@@ -26,7 +26,7 @@ With this card you can check with your next decisions,
 how much benefit users derive from the changes and whether the changes actually
 are useful or necessary.
 
-**More information**
+**More Information**
 
 - [Value Chains and Wardley Maps] [https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/]
 

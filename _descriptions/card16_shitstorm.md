@@ -12,6 +12,6 @@ Approach the respective persons according to their views about your software sys
 * Who can be held accountable more effectively?
 * Who can support you if you need to escalate something?
 
-**More information**
+**More Information**
 
 * Related method of [Stakeholder Analysis](https://gamestorming.com/stakeholder-analysis/)

@@ -15,7 +15,7 @@ The product box helps you to find important answers for your software from the c
 
 By answering such questions you will get a better understanding of what you are really developing the software for.
 
-**More information**
+**More Information**
 
 * [Design the Box](https://gamestorming.com/design-the-box/) method from gamestorming.com
 

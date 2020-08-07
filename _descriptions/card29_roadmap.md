@@ -17,7 +17,7 @@ This card can help you to keep a clear head instead of despairing and throwing i
 6. **Dispose**: Everywhere we stumble on it, it gets removed
 
 
-**More information**
+**More Information**
 
 * A similar procedure can be found in the [Technology Radar](https://www.thoughtworks.com/de/radar) (which we used for inspiration)
 
